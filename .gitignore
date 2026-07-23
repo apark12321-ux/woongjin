@@ -1,0 +1,7 @@
+# 대용량 입력/출력물은 버전관리 제외 (규칙·스크립트만 추적)
+input/원본/*.pdf
+input/선별/*.pdf
+정답해설/*.pdf
+output/*.hwpx
+work/*
+!*/.gitkeep
